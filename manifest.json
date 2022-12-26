@@ -1,0 +1,9 @@
+{
+    "name": "startpage",
+    "version": "0.1",
+    "manifest_version": 3,
+    "description": "A startpage/new tab page for my browser that does what I want it to do.",
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    },
+  }
